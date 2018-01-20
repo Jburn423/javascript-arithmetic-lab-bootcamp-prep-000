@@ -36,7 +36,7 @@ function makeInt(n){
   return p;
 }makeInt('22');
 
-//Part 10
+//Parts 10 and 11
 function preserveDecimal(n){
   var f = parseFloat(n, 10);
   return f;
