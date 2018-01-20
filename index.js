@@ -32,5 +32,5 @@ function dec(n){
 
 //Part 7
 function makeInt(n, base){
-  var p = 
+  var p = parseInt(n)
 }
