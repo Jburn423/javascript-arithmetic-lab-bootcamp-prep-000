@@ -31,9 +31,11 @@ function dec(n){
 }dec(28)
 
 //Part 7
-// the makeInt function takes predefined var n
-function makeInt(n){
-  // local variable p represents the parseInt function using base 10
+
+//The line below creates the makeInt function takes predefined var n as a parameter
+function makeInt(n)
+{
+  // The line below makes local variable p to represent the parseInt function using base 10
   var p = parseInt(n, 10);
   return p;
 }
