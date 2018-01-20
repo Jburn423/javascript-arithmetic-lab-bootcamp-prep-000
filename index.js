@@ -34,4 +34,4 @@ function dec(n){
 function makeInt(){
   var n = '76';
   return parseInt(n, 10);
-}makeInt(76);
+}makeInt();
