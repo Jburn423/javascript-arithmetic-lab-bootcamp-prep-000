@@ -31,3 +31,6 @@ function dec(n){
 }dec(28)
 
 //Part 7
+function makeInt(n){
+  parseInt('n', 10);
+}
