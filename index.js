@@ -36,6 +36,7 @@ function makeInt(n){
   if(isNaN(p)){return 0}  
   return p;
 }makeInt('22');
+makeInt('abs')
 
 //Parts 10 and 11
 function preserveDecimal(n){
