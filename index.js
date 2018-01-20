@@ -36,4 +36,7 @@ function makeInt(n){
   return p;
 }makeInt('22');
 
-//Part 
+//Part 10
+function preserveDecimal(n){
+  var f = parseFloat()
+}
