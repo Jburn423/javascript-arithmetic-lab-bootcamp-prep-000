@@ -31,7 +31,9 @@ function dec(n){
 }dec(28)
 
 //Part 7
+// the makeInt function takes predefined var n and the parameter base (which I have not predefined)
 function makeInt(n, base){
+  //
   var p = parseInt(n, 10);
   return p;
-}makeInt(22);
+}makeInt('22');
