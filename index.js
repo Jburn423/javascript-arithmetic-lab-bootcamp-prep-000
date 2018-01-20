@@ -33,7 +33,7 @@ function dec(n){
 //Parts 7,8 and 9
 function makeInt(n){
   var p = parseInt(n, 10);
-  if(inNaN(p))  
+  if(inNaN(p)){return 0}  
   return p;
 }makeInt('22');
 
