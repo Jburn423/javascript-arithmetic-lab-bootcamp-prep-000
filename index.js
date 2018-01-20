@@ -33,11 +33,8 @@ function dec(n){
 //Parts 7,8 and 9
 function makeInt(n){
   var p = parseInt(n, 10);
-  //if(isNaN(p)){return 0}  
-  //else{return p;}
   return p;
-}makeInt('qwerty');
-//makeInt('abs');
+}makeInt('22');
 
 //Parts 10 and 11
 function preserveDecimal(n){
