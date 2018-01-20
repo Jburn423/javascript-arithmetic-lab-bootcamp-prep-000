@@ -35,6 +35,5 @@ function makeInt(n){
   var p = parseInt(n, 10);
   return p;
 }makeInt('22');
-makeInt(c);
 
 //Part 
