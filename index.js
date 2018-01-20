@@ -33,4 +33,4 @@ function dec(n){
 //Part 7
 function makeInt(n){
   parseInt('n', 10);
-}
+}makeInt('47');
