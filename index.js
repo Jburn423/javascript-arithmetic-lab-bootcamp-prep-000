@@ -40,4 +40,4 @@ function makeInt(n){
 function preserveDecimal(n){
   var f = parseFloat(n, 10);
   return f;
-}preserveDecimal('10.9801')
+}preserveDecimal('10.9801');
