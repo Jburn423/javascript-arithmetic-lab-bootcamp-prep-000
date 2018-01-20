@@ -30,8 +30,10 @@ function dec(n){
   return n-=1;
 }dec(28)
 
-//Part 7
+//Parts 7,8 and 9
 function makeInt(n){
   var p = parseInt(n, 10);
   return p;
 }makeInt('22');
+
+//Part 
