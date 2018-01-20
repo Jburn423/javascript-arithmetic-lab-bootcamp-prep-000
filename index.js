@@ -33,7 +33,9 @@ function dec(n){
 //Part 7
 // the makeInt function takes predefined var n and the parameter base (which I have not predefined)
 function makeInt(n, base){
-  //
+  // local variable p represents the parseInt function using base 10
   var p = parseInt(n, 10);
   return p;
-}makeInt('22');
+}
+//This line calls the function to convert string '22' into an integer
+makeInt('22');
