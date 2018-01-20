@@ -34,6 +34,7 @@ function dec(n){
 function makeInt(n){
   var p = parseInt(n, 10);
   return p;
+  
 }makeInt('22');
 
 //Parts 10 and 11
