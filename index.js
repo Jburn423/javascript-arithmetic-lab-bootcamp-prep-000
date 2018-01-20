@@ -31,6 +31,3 @@ function dec(n){
 }dec(28)
 
 //Part 7
-function makeInt(n){
-  return parseInt('n', 10);
-}makeInt("47");
