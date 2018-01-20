@@ -31,5 +31,6 @@ function dec(n){
 }dec(28)
 
 //Part 7
-function makeInt(n,){
+function makeInt(n, base){
+  
 }
