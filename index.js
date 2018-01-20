@@ -36,7 +36,7 @@ function makeInt(n){
   //if(isNaN(p)){return 0}  
   //else{return p;}
   return p;
-}makeInt('22');
+}makeInt('qwerty');
 //makeInt('abs');
 
 //Parts 10 and 11
